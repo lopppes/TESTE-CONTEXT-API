@@ -1,8 +1,8 @@
-# React + Vite
+# Context-API teste
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Recentemente, concebi e executei um projeto empregando as tecnologias React e Vite com o intuito de investigar minuciosamente e experimentar as diversas funcionalidades proporcionadas pela Context API."
 
-Currently, two official plugins are available:
+## Imagem Web
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![753shots_so](https://github.com/lopppes/TESTE-CONTEXT-API/assets/109006648/3a2d6fd9-cc5d-4a66-984f-f2a3d9a4a644)
+
